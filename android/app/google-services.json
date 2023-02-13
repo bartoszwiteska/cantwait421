@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "460544418497",
-    "project_id": "cantwait421",
-    "storage_bucket": "cantwait421.appspot.com"
+    "project_number": "504455903666",
+    "project_id": "cantwait4212",
+    "storage_bucket": "cantwait4212.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:460544418497:android:b55a38cc760e138800ea40",
+        "mobilesdk_app_id": "1:504455903666:android:75cfec69f2af5b48728cab",
         "android_client_info": {
           "package_name": "com.bartoszwiteska.cantwait28"
         }
       },
       "oauth_client": [
         {
-          "client_id": "460544418497-epelh3kods4t3divlqeken03p7mvkd87.apps.googleusercontent.com",
+          "client_id": "504455903666-7vki6eq3j4qj8m0bg65fdmbuqv2hs095.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBXpLY7RC6qHBBbZiUXnvn5D4iVbZ6oMco"
+          "current_key": "AIzaSyCrWBfMGtavUxon1gx-1MKoDOxmq1iJW-U"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "460544418497-epelh3kods4t3divlqeken03p7mvkd87.apps.googleusercontent.com",
+              "client_id": "504455903666-7vki6eq3j4qj8m0bg65fdmbuqv2hs095.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
